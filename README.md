@@ -37,17 +37,16 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/23ca1772-5a92-4b8b-a8bc-e149da33d297)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/d1412f9a-dcab-4433-a9a5-b5d6d19257b9)
+## Input 
+<img width="1604" height="521" alt="Screenshot 2026-03-12 111010" src="https://github.com/user-attachments/assets/fecb6a1a-229e-4cdf-a1d4-12bade69f1a1" />
 
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+<img width="931" height="960" alt="Screenshot 2026-03-12 110950" src="https://github.com/user-attachments/assets/2681d714-e261-458c-8497-888942d375be" />
 
 
-### Name:
-### Register Number: 
+### Name: J IJAS
+### Register Number: 212225230102
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
